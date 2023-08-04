@@ -2,3 +2,6 @@
 
 I make videos on YouTube about software development. <br/>
 I work remotely and like to travel a lot.
+
+-&nbsp; Current location: Andijon, Uzbekistan
+
